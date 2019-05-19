@@ -3,7 +3,7 @@ Project for course CS-E4890 Deep Learning
 
 #### Dataset
 
-Download [FifaFaces](https://drive.google.com/drive/folders/1KYF9VOQa6ODsO6D1h7_0xcta-D4Gkoty?usp=sharing) dataset and extract into `data` folder.
+Run the cells in the _download.ipynb_ notebook to download the dataset.
 
 #### References
 
